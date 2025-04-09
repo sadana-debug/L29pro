@@ -1,6 +1,10 @@
 courses in AUB
 btech cse 
 aiml
-Iot 
+Iot
+
+new courses
+mechanics 
+civil 
 
 
