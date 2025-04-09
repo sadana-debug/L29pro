@@ -2,7 +2,7 @@ courses in AUB
 btech cse 
 aiml
 Iot
-
+AUB error
 new courses
 mechanics 
 civil 
